@@ -1,0 +1,316 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Character of an informer wherein his mischeivous nature, and leud practises are detected.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1675</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 11 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A31729</idno>
+            <idno type="STC">Wing C2011</idno>
+            <idno type="STC">ESTC R35810</idno>
+            <idno type="EEBO-CITATION">15564016</idno>
+            <idno type="OCLC">ocm 15564016</idno>
+            <idno type="VID">103774</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A31729)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 103774)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1184:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Character of an informer wherein his mischeivous nature, and leud practises are detected.</title>
+               </titleStmt>
+               <extent>[2], 5 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for T.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1675.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1660-1688.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-09</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:103774:1" rendition="simple:additions"/>
+            <p>THE CHARACTER OF An Informer.</p>
+            <p>WHEREIN His Miſcheivous Nature, and Leud Practiſes are Detected.</p>
+            <figure>
+               <q xml:lang="frm">HONI SOIT QVI MAL P PEN<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>E</q>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>
+               <hi>LONDON.</hi> Printed for <hi>T. P.</hi> 1675.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:103774:2" rendition="simple:additions"/>
+            <head>
+               <add>A Schiſmaticall Pamphlett.</add>
+            </head>
+            <pb n="1" facs="tcp:103774:2"/>
+            <head>THE CHARACTER OF An Informer.</head>
+            <p>AN Informer (I mean of the baſer ſort) whoſe Picture <hi>only</hi> is here intended to be drawn) Is one of the Devils <hi>Nut hooks;</hi> A Priviledg'd <hi>Trapan,</hi> or a Common <hi>Barretor</hi> under pretence of Authority: A <hi>Petty-fogging</hi> Catterpillar that ſcandalizes the <hi>Law,</hi> by making it acceſſary to his Rapines and Op<g ref="char:EOLhyphen"/>preſſions; A new <hi>Trapp</hi> for the Tongue, that <hi>Lime-twigs</hi> all that come near him, and puts moſt that he converſes with, on the <hi>Tenter-hooks</hi> of an Indictment for nothing.</p>
+            <p>A miſcheivous <hi>Vermin,</hi> bred out of the Corruption of the Body Politique; that feeds (like Toads) only on Poyſons, and ſucks the peccant Humours ſo long (like a Horſe-leach) till he burſt with Venome, or is forc'd to diſgorge by the <hi>Emetick</hi> quality of a <hi>Halter:</hi> He makes good the old Maxime, <hi>Summum Jus, Summa Injuria;</hi> and cuts Juſtice's <hi>Ballance</hi> to peeces with her <hi>own</hi> Sword; He talkes all <hi>Law,</hi> and never troubles his head with <hi>Equity</hi> or <hi>Religion,</hi> unleſs it be only to ſuppreſs them, and hav<g ref="char:EOLhyphen"/>ing no <hi>Conſcience</hi> himſelf, is reſolved to be a <hi>Plague</hi> to all thoſe that dare own they have <hi>any:</hi> He never opens his Mouth but you ſhall ſee it Lyn'd with ſome old dormant
+<pb n="2" facs="tcp:103774:3"/>Piece of <hi>P<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ult<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n,</hi> whom he Reads meerly as <hi>Conjurers</hi> do Scripture, to <hi>do miſchief</hi> with it; You would think him bred a <hi>Gla<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>er,</hi> he is ſo apt to pick <hi>Quarrels;</hi> or ſome broken <hi>Merc<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ant</hi> that his flung his Soul <hi>over-board,</hi> to make himſelf every way a Compleat <hi>Bankrup<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> He will Court a man to beat him, that he may worry him next Seſſions for the Battery, and dropp dangerous words on purpoſe to Proſecute you for Concealing them; Pre<g ref="char:EOLhyphen"/>ſentments, Citations, Warrants, Convictions, <hi>Sea<g ref="char:EOLhyphen"/>zures, &amp;c.</hi> are his vniverſal Language; and he is bet<g ref="char:EOLhyphen"/>ter acquainted with the Form of an <hi>Indictment,</hi> than his <hi>Pater Noſter,</hi> for he never name; <hi>God,</hi> but when he <hi>Swears</hi> by Him.</p>
+            <p>His Revenue conſiſts in <hi>A<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tions Popular,</hi> and his whole Imployment is to go a Fiſhing with <hi>Pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al Statut<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>;</hi> he thinks by that to take ſtore of <hi>fat Gudge<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ns,</hi> but at laſt catches only a <hi>Frogg?</hi> For his malitio<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s Project; (like Chymical Attempts of <hi>Tranſmuting</hi> Mettalls) ſeldome anſwer the trouble and Charge; and his mighty Incomes of <hi>Pe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>al<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies</hi> can but juſt purchaſe <hi>Ale</hi> enough to make him <hi>d<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unk,</hi> and afterwards he is forc'd to run on Tick (at a Freinds) for <hi>Coffee</hi> to make him <hi>Sober,</hi> if he may be ſaid ever to be ſo; whoſe Hair-brain'd Skull is perpetually <hi>Hurrycan'd</hi> with Malice, and in Child bed throws till tis Delivered of ſome New-minted <hi>Villia<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y.</hi>
+            </p>
+            <p>There is nothing in Nature ſo baſe and <hi>Contemp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>able</hi> as one of his <hi>Quality;</hi> a <hi>B<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>m-Bailey</hi> is a worthy Gentle<g ref="char:EOLhyphen"/>man to him, and the <hi>Apparator</hi> ſcorns his Company more then a <hi>Phanatique</hi> does a <hi>Parſo<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>:</hi> the Boyes ſtare on him as a Monſter; Big bellied Women are ready to Miſcarry at the ſight of him, and People generally avoid his Converſe as they would do the <hi>Peſtilence,</hi> and indeed they have reaſon, for he is one of Gods more greivous <hi>Judgements!</hi> Squire <hi>Keto<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> himſelfe would not endure the Sc<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al of drinking a Pot with him, were he not in cer<g ref="char:EOLhyphen"/>tain hopes of a future <hi>Advantage</hi> by him? A Popiſh <hi>Fire<g ref="char:EOLhyphen"/>ball
+<pb n="3" facs="tcp:103774:3"/>Flinger</hi> is not more Hate<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the City the<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he, on<g ref="char:EOLunhyphen"/>ly the <hi>Juſtices C<gap reason="illegible" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>e</hi> and H<gap reason="illegible" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>call <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ze<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r,</hi> becauſe he brings the moſt G<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſts to his M<gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l, and warrants him a Trade.</p>
+            <p>The Wiſe <hi>Athe<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>s</hi> (we read) Baniſh: a <hi>Coffin-maker</hi> out o<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> their City, becauſe the cauſe of his Mirth was others ſadneſs; what would they have done with ſuch a <hi>Setting-dogg,</hi> (who like a Beaſt of Prey) lives wholly on miſchief, and can neither eat not drink, without ſome <hi>Law</hi> be violated; ſo that if ever he ſay any <hi>Prayers,</hi> they are only that Men may daily encreaſe their Crimes, and Act more unlawful things; that his <hi>Gains</hi> may riſe proportionably. For though like a Cunning Archer, he ſeem to make the Publique Service the Mark of his aim, yet he ſquints aſide at his <hi>own</hi> Ends, which are the true Butt all the Arrows of his Proſecutions are ſhot at: He pretends himſelf a Zealot for the Law, And the Church<g ref="char:EOLhyphen"/>es chief <hi>Scavinger;</hi> But is in truth a proſtituted Varlet, and for all him. <hi>Epiſcopacy</hi> m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ght lye in the Kennel, and Acts of Parliament (though never ſo juſt and neceſſary) ſtop Muſtard pots, If he did not hope to get a <hi>Spill</hi> by them. And for Two-pence Advance, from either <hi>Ge<g ref="char:EOLhyphen"/>neva</hi> or <hi>Rome,</hi> I'le undertake the ſame Fellow would burn the <hi>Comm<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Prayer,</hi> and tear <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Chart<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to pieces, if he have not done it <hi>alread<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi>
+            </p>
+            <p>Whatever boaſts therefore he makes of his <hi>Loy<g ref="char:EOLhyphen"/>alty,</hi> or Orthodoxneſs, thoſe that wear any Eyes a<g ref="char:EOLhyphen"/>bout them will judge, ſo <hi>b<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> a Man can ſcarce make the <hi>beſt</hi> Subject, and that we are like to have a Glorious <hi>Reformation<g ref="char:punc">▪</g>
+               </hi> when open <hi>Proph<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eneſs</hi> is Imploped to Cor<g ref="char:EOLhyphen"/>rect ſuppoſed <hi>He<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ies:</hi> A good Cauſe is undoubtedly Scan<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aliz'd by ſuch <hi>v<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> Inſtruments, and could not but Blu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h to ſee thoſe Proſecute Perſons for <hi>Ceremonial Non<g ref="char:EOLhyphen"/>conform<gap reason="illegible" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>es,</hi> who are themſelves ſo much <hi>unconformable</hi> to all the Fundamental Laws of <hi>Religion</hi> and <hi>Morality?</hi> Do's it not ſound excellently to hear one of theſe Promooting Hectors Cry out, <hi>D<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> me, before I have done, He make
+<pb n="4" facs="tcp:103774:4"/>all theſe Ph<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tiq<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e Sons of W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oores come to our Church<g ref="char:punc">▪</g> and ſerve the Lord God g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>llantly.</hi> Is not this think you, A fit Agent to proſelyte Diſſenters? A rare <hi>Saints-Bell</hi> to Ring all into the Organs? Yet examine his Pedigree, and you muſt confeſs him diſcended of an ancient Stock, being the Son of <hi>Abaddon,</hi> or a natural By-blow of <hi>Bel<g ref="char:EOLhyphen"/>ſebubs,</hi> whom without breach of Charity, we may Con<g ref="char:EOLhyphen"/>clude to be the firſt Founder of this Order of Informants, ſince the Scripture reckons amongſt his Titles, That of <hi>Accuſer of the Brethren,</hi> Nor is he leſs nobly Allied, For <hi>H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nnan</hi> and <hi>Juda<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> were his two Elder Brothers, and Free of the ſame <hi>Trade,</hi> though both <hi>Hang'd,</hi> Which ſerves only as an <hi>Omen</hi> of what at leaſt he deſerves, though the times ſhould prove ſo <hi>unjuſt</hi> as not to give it him. His Younger Years were but an Apprentiſhip in <hi>Debauchery<g ref="char:punc">▪</g>
+               </hi> and having by <hi>Luſt</hi> and <hi>Riot,</hi> conſumed his Patrimony, or what he could <hi>C<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> others of, he now I<g ref="char:EOLhyphen"/>magines to Retreive a Fortune by <hi>Sp<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>i<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g</hi> and waſting thoſe that have been either more <hi>Pious</hi> or <hi>Induſtrious:</hi> He has <hi>broke</hi> oftner than a Town-Gallant has been Clapt, and followed more Tricks than a Country Mercer uſurps Trades; But all <hi>failing,</hi> The Devil in pure pitty wiſht him to this <hi>New</hi> Imploy, and furniſht him with a prodi<g ref="char:EOLhyphen"/>gious <hi>Stock</hi> of Wickedneſs to ſet up with; yet being unwilling to Truſt him without <hi>Security,</hi> he freely made a <hi>M<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rgage</hi> of his <hi>S<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ul,</hi> and Swears he has Cheated the Subtle <hi>Feind<g ref="char:punc">▪</g>
+               </hi> becau<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e it was <hi>Forfeited</hi> long before. He is now as <hi>eager</hi> after his Prey as a half-ſtarv'd Cormorant, and cares not though he Ruine <hi>half</hi> a Nation, to ſup<g ref="char:EOLhyphen"/>ply his own prodigalities, Being ſo perfectly Mercena<g ref="char:EOLhyphen"/>ry, That he would accuſe his <hi>own</hi> Father (if he did but know him) of Treaſon, and burn his Mother for a <hi>Witch,</hi> to get <hi>Six-pe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>e:</hi> He values an <hi>O<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>th</hi> no more than a Gameſter, and ſwallows <hi>Perjuries</hi> as faſt and as eaſily as a Juggler does Pins and Daggers.</p>
+            <p>He <hi>Ferrets</hi> a <hi>Conv<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ticle</hi> juſt as a <hi>Poll cat</hi> does Rab<g ref="char:EOLhyphen"/>bets
+<pb n="5" facs="tcp:103774:4"/>in their Burroughs, and the Rich men there <hi>skulke</hi> down in their Pews when they ſee him come in, dread<g ref="char:EOLhyphen"/>ing him more than a Partridge does a Hawke, or a City <hi>Crack</hi> a <hi>Marſhal's Man.</hi> I never before knew the mean<g ref="char:EOLhyphen"/>ing of that Latine Proverbe, <hi>Lupus in Fabula,</hi> but now I Gueſs the Engliſh to be <hi>An INFORMER</hi> in a <hi>Meeting-houſe,</hi> for ſure the ſight of him is enough to make a <hi>Teacher hoarſe;</hi> moſt of the Day he ſpends <hi>pera<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> in blind Ale-houſes, and little Sallies, to diſcover who hath the <hi>Impudence</hi> to ſerve God, And before Night he is ſure to be in the <hi>Crown-Office:</hi> A <hi>J<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtice of Peace</hi> can never be at quiet for him; and the honeſt <hi>Conſtable</hi> looks up<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap> him as his <hi>Evil Genius</hi> that is perpetually haunting and Egging him on to Miſchief: Yet though he be thus <hi>trouble<g ref="char:EOLhyphen"/>ſome</hi> to others, he is ſtill his <hi>own</hi> greateſt Enemy, for whilſt he Deſigns harm to others, it redownds to himſelf; And <hi>Good-men</hi> like <hi>Cammomile</hi> grows the better (perhaps the more <hi>numerous</hi> and faſter) for his treading them down, He being only as a <hi>black groun<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> to ſet of the <hi>luſture</hi> of their Merits, ſince often tims whilſt Malice ſeeks to <hi>wound,;</hi> it <hi>cures</hi> thoſe againſt whom tis Level'd, and <hi>de<g ref="char:EOLhyphen"/>ſtroys</hi> it ſelf, like the <hi>Glaſs</hi> that Reverberating the Ser<g ref="char:EOLhyphen"/>pents Poyſon <hi>Ki<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>'d</hi> her with her own weapon.</p>
+            <p>Juſt as he gets his Money he ſpends it, For as he takes Wages to Fight againſt God, ſo he lays it out again in the Service of the Devil, Conſuming in Bawdy houſes, what he gets by Surprizing Meeting-houſes; So that his Rapines not being able to ſupply his prodigal Debauche<g ref="char:EOLhyphen"/>ries, and his Helliſh Deſigns, being blaſted by Heaven, He is either forced at laſt to caſt Anchor in a Goal, or elſe is Mowed down as a Noxious Weed by the Syth of Juſtice: To which deſerved F<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te I leave, <hi>&amp;c.</hi>
+            </p>
+            <p>I leave him, if in the mean time his guilty <hi>Conſcience</hi> (hitherto<g ref="char:punc">▪</g> 
+               <hi>ſmothere<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi>) do not before <hi>Revive</hi> and Con<g ref="char:EOLhyphen"/>demn him, And he himſelf ſave the <hi>Ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gman</hi> a Labour, by <hi>preventing</hi> Him.</p>
+            <epigraph>
+               <q xml:lang="lat">—Dabit <hi>Deu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </hi> His quoque.</q>
+            </epigraph>
+         </div>
+         <trailer>Finem,</trailer>
+      </body>
+   </text>
+</TEI>
